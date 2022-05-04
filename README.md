@@ -46,7 +46,7 @@ Esta zonificación climática está vinculada a las exigencias reglamentarias de
 
 2. Entrar al directorio
 
-  ```cd zonificacion-climatica-cte.git```
+  ```cd zonificacion-climatica-cte```
 
 3. Damos permisos de ejecución
 
