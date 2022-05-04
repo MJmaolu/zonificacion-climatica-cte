@@ -62,7 +62,7 @@ Si no tienes conda, puedes ver cómo instalártelo [aquí](https://docs.conda.io
 
   5a. Activamos el entorno
 
-  ```conda activate zonificacion-climatica-env```
+  ```conda activate zonificacion-climatica-cte```
 
   6a. Ejecutamos los scripts en el siguiente orden:
 
