@@ -1,4 +1,4 @@
-conda: "environment.yaml"
+conda: "environment.yml"
 
 rule plot:
     input: "data/output/Results.csv"

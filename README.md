@@ -65,7 +65,7 @@ Si no tienes _conda_, puedes ver cómo instalártelo [aquí](https://docs.conda.
 4a. Generamos un entorno de conda
 
 ```shell
-conda env create -f environment.yaml
+conda env create -f environment.yml
 ```
 
 5a. Activamos el entorno
